@@ -65,17 +65,18 @@ Também direciono meus estudos para o desenvolvimento de software, explorando te
 
 ---
 
+
 ### 📊 Estatísticas do GitHub
 
-<p>
+<p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=MathOli-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     alt="Estatísticas do GitHub"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathOli-Dev&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br"
     alt="Linguagens mais utilizadas"
   />
 </p>
@@ -87,6 +88,9 @@ Também direciono meus estudos para o desenvolvimento de software, explorando te
 <p align="left">
   <a href="mailto:awkmath@hotmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/MathOli-Dev">
+    <img src="https://img.shields.io/badge/GitHub-MathOli--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
