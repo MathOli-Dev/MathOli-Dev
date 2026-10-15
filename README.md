@@ -51,7 +51,6 @@ Também direciono meus estudos para o desenvolvimento de software, explorando te
 
 ---
 
-
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -72,11 +71,11 @@ Também direciono meus estudos para o desenvolvimento de software, explorando te
 ### 📫 Contato
 
 <p align="left">
-  <a href="mailto:awkmath@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://github.com/MathOli-Dev">
     <img src="https://img.shields.io/badge/GitHub-MathOli--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:awkmath@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
   </a>
 </p>
 
