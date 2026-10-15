@@ -47,21 +47,6 @@ Também direciono meus estudos para o desenvolvimento de software, explorando te
 - 🎓 **Pós-graduação em Desenvolvimento Back-end** — 2025
 - 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — 2023
 
----
-
-### 💼 Experiência profissional
-
-- **Técnico de Suporte N2 — DSS Serviços de Tecnologia da Informação**
-  Atuação em projeto de TI da Receita Federal, diagnóstico de incidentes complexos e administração de sistemas e infraestrutura.
-
-- **Técnico de Suporte Telecom — Vip+ Telecom**
-  Diagnóstico e resolução de problemas de conectividade, telefonia e equipamentos de rede.
-
-- **Coordenador Administrativo de TI — Prefeitura Municipal de Uruguaiana**
-  Implantação e coordenação de equipe de TI, gestão de infraestrutura e padronização de processos.
-
-- **Chefe de Manutenção de TI — Prefeitura Municipal de Uruguaiana**
-  Suporte técnico, manutenção de equipamentos e gestão da infraestrutura tecnológica da rede municipal de ensino.
 
 ---
 
