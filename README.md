@@ -54,10 +54,17 @@ Também direciono meus estudos para o desenvolvimento de software, explorando te
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" alt="Estatísticas do GitHub" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MathOli-Dev&show_icons=true&theme=tokyonight&count_private=true&locale=pt-br" />
-  <img height="180" alt="Linguagens mais utilizadas" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MathOli-Dev&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=MathOli-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathOli-Dev&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br"
+    alt="Linguagens mais utilizadas"
+  />
 </p>
-
 ---
 
 ### 📫 Contato
